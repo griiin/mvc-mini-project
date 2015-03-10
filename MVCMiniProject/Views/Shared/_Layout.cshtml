@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>Test</title>
+    @*<link href="@Url.Content("~/Content/bootstrap-theme.min.css")" rel="stylesheet" type="text/css" />*@
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/Style.css")" rel="stylesheet" type="text/css" />
+    <script src="@Url.Content("~/Scripts/jquery-1.11.2.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>      
+</head>
+<body>
+    <div class="alert alert-danger" role="alert"><span>Error:</span><span class="alert-message"></span></div>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <div class="footer">
+        <a href="@Url.Action("Index", "Home")">Index</a>
+        |
+        <a href="@Url.Action("About", "Home")">About</a>
+    </div>
+</body>
+</html>

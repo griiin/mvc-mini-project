@@ -1,0 +1,23 @@
+﻿<form class="form-calculator">
+    <h2 class="form-signin-heading">Probability Calculator</h2>
+    <div class="input-field-area row">
+        <span class="col-md-2"></span>
+        <input id="probaA" class="col-md-2" type="text" placeholder="P(A)" />
+        <span class="col-md-4"></span>
+        <input id="probaB" class="col-md-2" type="text" placeholder="P(B)" />
+        <span class="col-md-2"></span>
+    </div>
+    <div class="action-area row">
+        <span class="col-md-1"></span>
+        <input class="btn btn-default col-md-4" id="combine-independent-event" type="button" value="P(A and B)" />
+        <span class="col-md-2"></span>
+        <input class="btn btn-default col-md-4" id="combine-not-mutually-exclusive-event" type="button" value="P(A or B)" />
+        <span class="col-md-1"></span>
+    </div>
+    <div class="answer-area">
+        <span class="answer"></span>
+    </div>
+</form>
+
+
+<script src="@Url.Content("~/Scripts/Home/index.js")"></script>

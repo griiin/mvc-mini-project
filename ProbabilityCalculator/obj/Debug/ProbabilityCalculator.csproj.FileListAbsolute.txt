@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\ProbabilityCalculator\bin\Debug\ProbabilityCalculator.dll
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\ProbabilityCalculator\bin\Debug\ProbabilityCalculator.pdb
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\ProbabilityCalculator\obj\Debug\ProbabilityCalculator.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\ProbabilityCalculator\obj\Debug\ProbabilityCalculator.dll
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\ProbabilityCalculator\obj\Debug\ProbabilityCalculator.pdb

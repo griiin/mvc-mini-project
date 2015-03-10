@@ -1,0 +1,43 @@
+﻿body {
+    outline: none;
+    text-align:center;
+    line-height: 39px;
+
+    p {
+        text-align:left;
+        margin: 0px;
+        margin-bottom: 10px;
+        line-height: 20px;
+    }
+
+    .btn {
+        outline: none;
+    }
+
+    .container {
+        max-width: 500px;
+
+        input {
+            margin-bottom: 10px;
+
+            &[type=text] {
+                height: 39px;
+            }
+        }
+
+        .answer {
+            transition: all 1s; 
+            border: 1px dashed white;
+            display: block;
+        }
+    }
+
+    .alert {
+        display: none;
+
+        span:first-child {
+            font-weight: bold;
+            margin-right: 5px;
+        }
+    }
+}

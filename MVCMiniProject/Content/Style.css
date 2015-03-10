@@ -1,0 +1,35 @@
+body {
+  outline: none;
+  text-align: center;
+  line-height: 39px;
+}
+body p {
+  text-align: left;
+  margin: 0px;
+  margin-bottom: 10px;
+  line-height: 20px;
+}
+body .btn {
+  outline: none;
+}
+body .container {
+  max-width: 500px;
+}
+body .container input {
+  margin-bottom: 10px;
+}
+body .container input[type=text] {
+  height: 39px;
+}
+body .container .answer {
+  transition: all 1s;
+  border: 1px dashed white;
+  display: block;
+}
+body .alert {
+  display: none;
+}
+body .alert span:first-child {
+  font-weight: bold;
+  margin-right: 5px;
+}

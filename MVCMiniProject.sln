@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCMiniProject", "MVCMiniProject\MVCMiniProject.csproj", "{D796CCE5-5DAE-469F-8CFC-DD488F4681B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProbabilityCalculator", "ProbabilityCalculator\ProbabilityCalculator.csproj", "{8BE7E836-CD68-47FB-B67E-17A8665E55CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainTests", "DomainTests\DomainTests.csproj", "{B9DED009-19AB-4287-953B-D82A03854FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D796CCE5-5DAE-469F-8CFC-DD488F4681B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D796CCE5-5DAE-469F-8CFC-DD488F4681B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D796CCE5-5DAE-469F-8CFC-DD488F4681B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D796CCE5-5DAE-469F-8CFC-DD488F4681B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE7E836-CD68-47FB-B67E-17A8665E55CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE7E836-CD68-47FB-B67E-17A8665E55CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE7E836-CD68-47FB-B67E-17A8665E55CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE7E836-CD68-47FB-B67E-17A8665E55CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9DED009-19AB-4287-953B-D82A03854FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9DED009-19AB-4287-953B-D82A03854FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9DED009-19AB-4287-953B-D82A03854FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9DED009-19AB-4287-953B-D82A03854FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

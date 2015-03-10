@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\DomainTests\obj\Debug\DomainTests.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\DomainTests\bin\Debug\DomainTests.dll
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\DomainTests\bin\Debug\DomainTests.pdb
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\DomainTests\bin\Debug\ProbabilityCalculator.dll
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\DomainTests\bin\Debug\ProbabilityCalculator.pdb
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\DomainTests\obj\Debug\DomainTests.dll
+\\vmware-host\Shared Folders\Desktop\MVCMiniProject\DomainTests\obj\Debug\DomainTests.pdb
