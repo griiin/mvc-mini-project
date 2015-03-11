@@ -124,6 +124,7 @@
     <Content Include="Content\Style.css" />
     <Content Include="Global.asax" />
     <Content Include="Images\glyphicons-halflings-regular.svg" />
+    <Content Include="screenshot.png" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\Home\index.js" />
     <Content Include="Scripts\jquery-1.11.2.min.js" />
